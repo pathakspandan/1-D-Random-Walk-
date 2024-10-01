@@ -60,6 +60,6 @@ You can install them via pip:
 pip install numpy matplotlib
 
 ## Contributing
-Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!MM
+Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
 
 Explore both normal and reflective boundary random walks to see how boundary conditions affect the particle's behavior!
