@@ -34,6 +34,7 @@ In this repository, we explore two types of 1D random walks: a normal random wal
 * For a random walk with reflective boundaries, open *'Reflecting Boundary Random Walk.ipynb'*.
 3. Run the simulations:
 Follow the instructions in the notebooks to simulate both types of random walks.
+
 **Note:** Make your own copy of the notebook before making any changes or starting exercises.
 
 ## Simulation Details
@@ -56,8 +57,9 @@ Make sure you have the required Python libraries installed:
 * matplotlib
   
 You can install them via pip:
-
+```bash
 pip install numpy matplotlib
+```
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
